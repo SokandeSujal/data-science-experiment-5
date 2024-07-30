@@ -1,2 +1,30 @@
-# data-science-experiment-5
-Experiment 5 for Data Science Fundamentals with Python - Data Visualization using Matplotlib
+# Data Science Experiment 5
+
+This repository contains the code for Experiment 5 of the Data Science Fundamentals with Python course.
+
+## Description
+
+In this experiment, we:
+- Loaded the "Iris" dataset from the UCI Machine Learning Repository.
+- Visualized the dataset using Matplotlib.
+- Created scatter plots for Sepal Length vs Sepal Width and Petal Length vs Petal Width, color-coded by species.
+
+# Experiment 5: Data Visualization using Matplotlib
+
+## Petal Length vs Petal Width
+![Petal Length vs Petal Width](URL_OF_PETAL_LENGTH_VS_PETAL_WIDTH_IMAGE)
+
+## Sepal Length vs Sepal Width
+![Sepal Length vs Sepal Width](URL_OF_SEPAL_LENGTH_VS_SEPAL_WIDTH_IMAGE)
+
+## Files
+
+- `experiment_5.ipynb`: The Jupyter Notebook containing the experiment code.
+
+## Usage
+
+To run the code, open the `experiment_5.ipynb` file in Google Colab or Jupyter Notebook.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
