@@ -12,10 +12,10 @@ In this experiment, we:
 # Experiment 5: Data Visualization using Matplotlib
 
 ## Petal Length vs Petal Width
-![Petal Length vs Petal Width](URL_OF_PETAL_LENGTH_VS_PETAL_WIDTH_IMAGE)
+![Petal Length vs Petal Width]([URL_OF_PETAL_LENGTH_VS_PETAL_WIDTH_IMAGE](https://github.com/SokandeSujal/data-science-experiment-5/blob/main/Petal%20Length%20vs%20Petal%20Width.png?raw=true))
 
 ## Sepal Length vs Sepal Width
-![Sepal Length vs Sepal Width](URL_OF_SEPAL_LENGTH_VS_SEPAL_WIDTH_IMAGE)
+![Sepal Length vs Sepal Width]([URL_OF_SEPAL_LENGTH_VS_SEPAL_WIDTH_IMAGE](https://github.com/SokandeSujal/data-science-experiment-5/blob/main/Sepal%20Length%20vs%20Sepal%20Width.png?raw=true))
 
 ## Files
 
