@@ -9,13 +9,13 @@ In this experiment, we:
 - Visualized the dataset using Matplotlib.
 - Created scatter plots for Sepal Length vs Sepal Width and Petal Length vs Petal Width, color-coded by species.
 
-# Experiment 5: Data Visualization using Matplotlib
+# Scatter plots 
 
 ## Petal Length vs Petal Width
-![Petal Length vs Petal Width]([URL_OF_PETAL_LENGTH_VS_PETAL_WIDTH_IMAGE](https://github.com/SokandeSujal/data-science-experiment-5/blob/main/Petal%20Length%20vs%20Petal%20Width.png?raw=true))
+![Petal Length vs Petal Width](https://github.com/SokandeSujal/data-science-experiment-5/blob/main/Petal%20Length%20vs%20Petal%20Width.png?raw=true)
 
 ## Sepal Length vs Sepal Width
-![Sepal Length vs Sepal Width]([URL_OF_SEPAL_LENGTH_VS_SEPAL_WIDTH_IMAGE](https://github.com/SokandeSujal/data-science-experiment-5/blob/main/Sepal%20Length%20vs%20Sepal%20Width.png?raw=true))
+![Sepal Length vs Sepal Width](https://github.com/SokandeSujal/data-science-experiment-5/blob/main/Sepal%20Length%20vs%20Sepal%20Width.png?raw=true)
 
 ## Files
 
